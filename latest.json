@@ -1,0 +1,6 @@
+{
+  "version": "3.0",
+  "date": "6 November 2026",
+  "notes": "FileGlade 3.0: dual-pane browsing, selection basket, folder compare and sync, advanced multi-rename, archive browsing, search inside documents, Mac and Windows keyboard layouts, automatic updates and faster browsing.",
+  "mac": { "url": "https://raw.githubusercontent.com/akshsim1991/FileGlade-releases/main/FileGlade-3.0-mac.zip", "size": 1654465, "sha256": "b87147568b87270ff01bcf3f394b5ece912577c5e2a2a6a4607a17d545940069" }
+}
